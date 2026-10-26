@@ -1,76 +1,72 @@
 # Codveda Python Development Internship
 
-This repository contains Python projects completed as part
-of my Python Development Internship assignments with Codveda.
+Welcome to my Python Development Internship project repository at Codveda.
 
-## Level 1
+This repository contains the programming assignments I completed throughout the internship. Each level focuses on developing practical programming skills, problem-solving abilities, and experience building Python applications.
 
-### 1. Simple Calculator
-A command-line calculator that performs basic arithmetic
-operations, including addition, subtraction, multiplication,
-and division.
+## Repository Structure
 
-### 2. Number Guessing Game
-A game where users attempt to guess a randomly generated
-number within a limited number of attempts.
+### Level 1 — Python Fundamentals
 
-## Level 2
+Introduces fundamental programming concepts through beginner-friendly applications.
 
-### 1. To-Do List Application
-A command-line task manager that allows users to add,
-view, delete, and complete tasks.
+**Projects:**
 
-Features:
-- Task management
-- Task completion tracking
-- JSON file storage
-- Input validation
-- Error handling
+* Simple Calculator
+* Number Guessing Game
 
-### 2. API Integration
-A Python application that retrieves task information from
-the JSONPlaceholder public API.
+[Explore Level 1](Level_1/)
 
-Features:
-- HTTP GET requests
-- JSON response processing
-- User-selected task IDs
-- HTTP error handling
-- Connection error handling
-- Input validation
+### Level 2 — Intermediate Python Development
+
+Focuses on file handling, working with external APIs, and processing JSON data.
+
+**Projects:**
+
+* JSON-Based To-Do List
+* API Integration Using Python
+
+[Explore Level 2](Level_2/)
+
+### Level 3 — Advanced Python Applications
+
+Focuses on web application development, authentication, and file security.
+
+**Projects:**
+
+* Django Authentication Web Application
+* File Encryption and Decryption
+
+[Explore Level 3](Level_3/)
 
 ## Technologies Used
 
-- Python
-- Requests
-- JSON
-- HTTP APIs
-- Git and GitHub
+* Python
+* Django
+* HTML
+* REST APIs
+* JSON
+* Cryptography
+* Git and GitHub
 
-## How to Run
+## Learning Objectives
 
-Install the required dependency:
+Through these assignments, I am developing practical skills in:
 
-    python -m pip install requests
+* Python programming and problem-solving
+* Functions, control flow, and application structure
+* File handling and JSON processing
+* API integration
+* Web application development
+* User authentication
+* File encryption and decryption
+* Error handling and documentation
+* Version control with Git and GitHub
 
-Run the calculator:
+## Repository Navigation
 
-    python level_1/calculator.py
+Each level contains its own README with an overview of the assignments. Individual task folders contain the relevant source code and documentation.
 
-Run the number guessing game:
+## Acknowledgement
 
-    python level_1/number_guessing_game.py
-
-Run the To-Do List application:
-
-    python level_2/todo_app.py
-
-Run the API integration application:
-
-    python level_2/api_integration.py
-
-## Learning Outcomes
-
-These projects helped me practise Python functions,
-loops, conditionals, data structures, file handling,
-exception handling, JSON, and HTTP API integration.
+These projects were completed as part of my Python Development Internship assignments with Codveda.
