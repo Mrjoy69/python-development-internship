@@ -3,11 +3,18 @@
 venv/
 
 # Python cache files
-Level_3/config/__pycache__
+Level_3/Task_1/config/__pycache__
 *.py[cod]
 
 # Django local database
-Level_3/db.sqlite3
+Level_3/Task_1/db.sqlite3
 
 # Environment variables and secrets
 .env
+
+# File encryption secrets and generated test files
+
+Level_3/Task_2/secret.key
+Level_3/Task_2/*.encrypted
+Level_3/Task_2/*.decrypted
+Level_3/Task_2/*__pycache__

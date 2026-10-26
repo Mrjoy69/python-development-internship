@@ -25,7 +25,7 @@ This project is a web application built with Django that allows users to registe
 ### Project Structure
 
 ```text
-level_3/
+Task_1/
 ├── auth_system/
 │   ├── templates/
 │   │   └── auth_system/

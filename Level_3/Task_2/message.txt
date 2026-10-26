@@ -1,0 +1,2 @@
+Hello! This is my first file encryption project.
+I am learning how to protect files using Python.
